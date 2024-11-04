@@ -1,6 +1,11 @@
-# Optimization of Adaptive Sliding Mode Controllers
-This repository contains the resulting datasets of the work entitled **Optimization of Adaptive Sliding Mode Controllers Using
-Customized Metaheuristics in DC-DC Buck-Boost Converters**
+# Manuscript 671 – Result & Simulations
+
+Welcome to the Manuscript 671: Result Simulation GECCO 2023
+
+This repository contains the resulting datasets of the work entitled **Automatic Hyper-Heuristic to Generate Heuristic-based Adaptive**
+**Sliding Mode Controller Tuners for Buck-Boost Converters** presented in GECCO-2023
+
+Authors: _Daniel F. Zambrano-Gutierrez, Jorge M. Cruz-Duarte, Herman Castañeda_
 
 ## Requirements
 * Python v3.7+
@@ -10,4 +15,12 @@ Customized Metaheuristics in DC-DC Buck-Boost Converters**
 * Standard modules: os, matplotlib, seaborn, numpy, pandas, scipy.stats
 * Matlab R2022a
 
+## Files
+* [Hyper-heuristic process](https://github.com/Danielfz14/GECCO_671/blob/main/HH_deslizante.ipynb)
+* [Test with the MH_* operator](https://github.com/Danielfz14/GECCO_671/blob/main/deslizanteHH.ipynb)
+* [Testing of the MHS Classical MHS](https://github.com/Danielfz14/GECCO_671/blob/main/Gecco-PSO-GA.ipynb)
+    
+* [Code for simulating the converter and controller in MATLAB](https://github.com/Danielfz14/GECCO_671/blob/main/HHmododeslizante2.m)
+* [Simulink model](https://github.com/Danielfz14/GECCO_671/blob/main/s1.slx)
+* [Data](https://github.com/Danielfz14/GECCO_671/tree/main/Datos)
 
