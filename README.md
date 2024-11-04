@@ -1,4 +1,4 @@
-# Optimization of Adaptive Sliding Mode Controllers Using Customized Metaheuristics in DC-DC Buck-Boost Converters
+# Optimization of Adaptive Sliding Mode Controllers
 This repository contains the resulting datasets of the work entitled **Optimization of Adaptive Sliding Mode Controllers Using
 Customized Metaheuristics in DC-DC Buck-Boost Converters**
 
